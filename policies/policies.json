@@ -1,0 +1,32 @@
+{
+  "format": 1,
+  "updated": "2026-11-07T09:30:24.831039Z",
+  "policies": [
+    {
+      "id": "terms",
+      "builds": [
+        "play",
+        "direct"
+      ],
+      "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/terms/",
+      "current": 1,
+      "published": "2026-11-07",
+      "notify": false,
+      "titles": {
+        "ps": "شرطونه او مقررات – کوچنی ښوونکی",
+        "en": "Terms and Conditions – Kuchni Khuwunki (کوچنی ښوونکی)"
+      },
+      "versions": [
+        {
+          "version": 1,
+          "published": "2026-11-07",
+          "languages": [
+            "ps",
+            "en"
+          ],
+          "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/terms/v1.html"
+        }
+      ]
+    }
+  ]
+}
