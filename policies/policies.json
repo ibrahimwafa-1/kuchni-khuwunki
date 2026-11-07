@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updated": "2026-11-07T15:44:52.343283Z",
+  "updated": "2026-11-07T15:46:18.127954Z",
   "policies": [
     {
       "id": "privacy",
@@ -60,6 +60,32 @@
             "en"
           ],
           "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/terms/v1.html"
+        }
+      ]
+    },
+    {
+      "id": "subscription",
+      "builds": [
+        "direct"
+      ],
+      "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/subscription/",
+      "current": 1,
+      "published": "2026-11-07",
+      "notify": true,
+      "titles": {
+        "ps": "د ګډون او پیسو ورکولو تګلاره – کوچنی ښوونکی (د APK نسخه)",
+        "en": "Subscription and Payment Policy – Kuchni Khuwunki (APK version)"
+      },
+      "versions": [
+        {
+          "version": 1,
+          "published": "2026-11-07",
+          "languages": [
+            "ps",
+            "en"
+          ],
+          "notify": true,
+          "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/subscription/v1.html"
         }
       ]
     }
