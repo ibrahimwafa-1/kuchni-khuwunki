@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updated": "2026-11-07T15:46:18.127954Z",
+  "updated": "2026-11-07T15:47:02.363233Z",
   "policies": [
     {
       "id": "privacy",
@@ -86,6 +86,32 @@
           ],
           "notify": true,
           "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/subscription/v1.html"
+        }
+      ]
+    },
+    {
+      "id": "refund",
+      "builds": [
+        "direct"
+      ],
+      "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/refund/",
+      "current": 1,
+      "published": "2026-11-07",
+      "notify": true,
+      "titles": {
+        "ps": "د پیسو د بېرته ورکولو تګلاره – کوچنی ښوونکی (د APK نسخه)",
+        "en": "Refund Policy – Kuchni Khuwunki (APK version)"
+      },
+      "versions": [
+        {
+          "version": 1,
+          "published": "2026-11-07",
+          "languages": [
+            "ps",
+            "en"
+          ],
+          "notify": true,
+          "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/refund/v1.html"
         }
       ]
     }
