@@ -1,7 +1,42 @@
 {
   "format": 1,
-  "updated": "2026-11-07T09:30:24.831039Z",
+  "updated": "2026-11-07T15:44:52.343283Z",
   "policies": [
+    {
+      "id": "privacy",
+      "builds": [
+        "play",
+        "direct"
+      ],
+      "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/privacy/",
+      "current": 1,
+      "published": "2026-11-07",
+      "notify": false,
+      "titles": {
+        "ps": "د محرمیت تګلاره – کوچنی ښوونکی",
+        "en": "Privacy Policy – Kuchni Khuwunki (کوچنی ښوونکی)"
+      },
+      "versions": [
+        {
+          "version": 0,
+          "published": null,
+          "languages": [
+            "ps"
+          ],
+          "legacy": true,
+          "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/privacy/v0.html"
+        },
+        {
+          "version": 1,
+          "published": "2026-11-07",
+          "languages": [
+            "ps",
+            "en"
+          ],
+          "url": "https://ibrahimwafa-1.github.io/kuchni-khuwunki/policies/privacy/v1.html"
+        }
+      ]
+    },
     {
       "id": "terms",
       "builds": [
